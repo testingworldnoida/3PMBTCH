@@ -18,7 +18,7 @@ public class A {
 		{
 			System.out.println(rs.getString("contactLastName"));
 		}
-		
+		System.out.println();
 		
 	}
 	
